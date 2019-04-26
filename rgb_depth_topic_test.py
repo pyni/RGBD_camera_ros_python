@@ -4,8 +4,7 @@
 Demo of reading from image topic, reading correspoding point cloud
 information and using markers to show output in rviz.
 
-Author: Nathan Sprague
-Version: 11/15
+Author: Peiyuan Ni
 """
 import rospy
 
