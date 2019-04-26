@@ -5,4 +5,4 @@ This is a python version to read ros topic for both rgb and depth image
 
 2.python rgb_depth_topic_test.py 
 
-有些代码虽然简单，但找真的要找老半天！所以这边上传一下，绝对实用。
+RGB和depth必须同步接收！，有些代码虽然简单，但找真的要找老半天！所以这边上传一下，绝对实用。
